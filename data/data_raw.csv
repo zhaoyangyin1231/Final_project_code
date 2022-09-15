@@ -1,4 +1,4 @@
-,coal_price($/MT),power_price,fuel_price(TEUR),wind_speed,tempereature,gas
+,coal_price($/MT),power_price,oil_price(TEUR),wind_speed,tempereature,gas
 1,84,2.499,1.629,12,-1,1.9
 2,86,1.759,1.588,13,-2,1.85
 3,79,1.826,1.548,15,0,1.73
